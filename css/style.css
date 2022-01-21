@@ -221,6 +221,9 @@ article#main-col .page-title{
 .people a:hover{
 	color:#333232;
 }
+.event a:hover{
+	color:#333232;
+}
 
 /* Services*/
 ul#services li{
